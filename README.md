@@ -22,7 +22,7 @@ Die nachstehende Dokumentation wurde von Michael Blickenstorfer im Rahmen des Mo
 #### Inhaltsverzeichnis
 * 01 - [Container](https://github.com/TacoNaco47/M300_40_Container#-01---container)
 * 02 - [Docker](https://github.com/TacoNaco47/M300_40_Container#-02---docker)
-* 03 - [Netzwerk-Anbindung] (https://github.com/TacoNaco47/M300_40_Container#-03---netzwerk-anbindung)
+* 03 - [Netzwerk-Anbindung](https://github.com/TacoNaco47/M300_40_Container#-03---netzwerk-anbindung)
 * 04 - [Volumes](https://github.com/TacoNaco47/M300_40_Container#-04---volumes)
 * 05 - [Image-Bereitstellung](https://github.com/TacoNaco47/M300_40_Container#-05---image-bereitstellung)
 
