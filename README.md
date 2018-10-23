@@ -18,7 +18,7 @@ Die nachstehende Dokumentation wurde von Michael Blickenstorfer im Rahmen des Mo
 
 #### Voraussetzungen
 * [X] macOS High Sierra (Version 10.13.6)
-* [X] Docker
+* [X] Docker for Mac (Version 18.06.1-ce-mac73)
 
 #### Inhaltsverzeichnis
 * 01 - [Container](https://github.com/TacoNaco47/M300_40_Container#-01---container)
