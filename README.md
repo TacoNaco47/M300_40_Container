@@ -13,6 +13,7 @@ Die nachstehende Dokumentation wurde von Michael Blickenstorfer im Rahmen des Mo
 | ------------- |:-----------------------------------------------------------------------------------| :------: |
 | 21.10.2018    | Erstellung der Datei & erste Änderungen eingeführt                                 |    MBL   |
 | 22.10.2018    | Weitere Ausbesserungen vorgenommen                                                 |    MBL   |
+| 23.10.2018    | Bilder eingefügt                                                                   |    MBL   |
 |      ...      | ...                                                                                |    ...   |
 
 #### Voraussetzungen
@@ -28,7 +29,7 @@ Die nachstehende Dokumentation wurde von Michael Blickenstorfer im Rahmen des Mo
 
 ___
 
-![](XXX "Container") 01 - Container
+![](https://github.com/TacoNaco47/M300_40_Container/blob/master/images/Ship_36x36.png?raw=true "Container") 01 - Container
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_40_Container#m300---container-40)
@@ -86,7 +87,7 @@ In einer Microservices-Architektur ist es möglich, nur die Ressourcen zu skalie
 
 
 
-![](XXX "Container") 02 - Docker
+![](https://github.com/TacoNaco47/M300_40_Container/blob/master/images/Docker_36x36.png?raw=true ~~~~"Docker") 02 - Docker
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_40_Container#m300---container-40)
@@ -346,7 +347,7 @@ Wenn ein interner Server vorhanden ist, kann das Grundimage (ubuntu:14.04) wie f
 
 
 
-![](XXX "Netzwerk-Anbindung") 03 - Netzwerk-Anbindung
+![](https://github.com/TacoNaco47/M300_40_Container/blob/master/images/Network_36x36.png?raw=true "Netzwerk-Anbindung") 03 - Netzwerk-Anbindung
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_40_Container#m300---container-40)
@@ -497,7 +498,7 @@ MySQL Client starten (auf Ubuntu):
 
 
 
-![](XXX "Volumes") 04 - Volumes
+![](https://github.com/TacoNaco47/M300_40_Container/blob/master/images/Volume_36x36.png?raw=true "Volumes") 04 - Volumes
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_40_Container#m300---container-40)
@@ -633,7 +634,7 @@ Die Abhängigkeit Volume Verzeichnis kann auch im Dockerfile hinterlegt werden:
 
 
 
-![](XXX "Image-Bereitstellung") 05 - Image-Bereitstellung
+![](https://github.com/TacoNaco47/M300_40_Container/blob/master/images/Share_36x36.png?raw=true "Image-Bereitstellung") 05 - Image-Bereitstellung
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_40_Container#m300---container-40)
