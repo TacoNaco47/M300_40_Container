@@ -87,7 +87,7 @@ In einer Microservices-Architektur ist es möglich, nur die Ressourcen zu skalie
 
 
 
-![](https://github.com/TacoNaco47/M300_40_Container/blob/master/images/Docker_36x36.png?raw=true ~~~~"Docker") 02 - Docker
+![](https://github.com/TacoNaco47/M300_40_Container/blob/master/images/Docker_36x36.png?raw=true "Docker") 02 - Docker
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_40_Container#m300---container-40)
